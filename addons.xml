@@ -73,7 +73,7 @@
 </addon>
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Brlive" name="[COLOR white][B]Br[/B][/COLOR][COLOR red][B]Live[/B][/COLOR]" version="2.6" provider-name="Mattos">
+<addon id="plugin.video.Brlive" name="[COLOR white][B]Br[/B][/COLOR][COLOR red][B]Live[/B][/COLOR]" version="2.7" provider-name="Mattos">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -144,7 +144,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 </extension>
 </addon>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.FORMIGAtv" name="[COLOR  blue][B]FORMIGA[COLOR  silver][B]tv[/B][/COLOR]" version="3.8" provider-name="TEAMFORMIGAtv">
+<addon id="plugin.video.FORMIGAtv" name="[COLOR  blue][B]FORMIGA[COLOR  silver][B]tv[/B][/COLOR]" version="3.9" provider-name="TEAMFORMIGAtv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
