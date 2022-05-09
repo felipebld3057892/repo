@@ -305,7 +305,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 </addon>
 	
 	
-<addon id="plugin.video.KelTecPlay" name="[B][COLOR white]KelTec[/COLOR] [COLOR crimson]Play[/COLOR][/B]" version="2.7" provider-name="Team KelTec">
+<addon id="plugin.video.KelTecPlay" name="[B][COLOR white]KelTec[/COLOR] [COLOR crimson]Play[/COLOR][/B]" version="2.8" provider-name="Team KelTec">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
