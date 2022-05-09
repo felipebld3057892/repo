@@ -3,7 +3,7 @@
 	
 	<addon id="plugin.video.GPSCELL"
        name="[COLOR white][B]GPSCELL[/B][/COLOR]"
-       version="3.0"
+       version="3.1"
        provider-name="PEDRO">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
