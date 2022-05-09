@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.FORMIGAtv" name="[COLOR  blue][B]FORMIGA[COLOR  silver][B]tv[/B][/COLOR]" version="3.9" provider-name="TEAMFORMIGAtv">
+<addon id="plugin.video.FORMIGAtv" name="[COLOR  blue][B]FORMIGA[COLOR  silver][B]tv[/B][/COLOR]" version="4.0" provider-name="TEAMFORMIGAtv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
