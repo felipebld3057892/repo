@@ -19,15 +19,6 @@
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
-	
-	<extension point="xbmc.addon.repository" name="Arrow Negra repository">
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/arrownegra/repository.arrownegra.github.io/main/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/arrownegra/repository.arrownegra.github.io/main/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/arrownegra/repository.arrownegra.github.io/main/</datadir>
-		</dir>
-    </extension>
-
 	<extension point="xbmc.addon.metadata">
 		<summary>Canais de Televisão, desportos e mais...</summary>
 		<description>
