@@ -75,7 +75,7 @@ Não se aceita nenhuma responsabilidade pelo uso deste addon.
 
 <addon id="plugin.video.18"
        name="[COLOR white][B]ADULTOS 18[/B][/COLOR]"
-       version="2.0"
+       version="2.1"
        provider-name="MEGA TV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
