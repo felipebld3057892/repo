@@ -105,7 +105,7 @@ Não se aceita nenhuma responsabilidade pelo uso deste addon.
 
 <addon id="plugin.video.tvfogo"
        name="[B][COLOR chocolate]Glorioso Tv[/COLOR][/B]"
-       version="9.1.0"
+       version="9.2.0"
        provider-name="[B][COLOR yellow]Glorioso Tv[/COLOR][/B]">
 
   <requires>
