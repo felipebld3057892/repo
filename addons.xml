@@ -374,7 +374,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 
 <addon
   id="skin.xonfluence"
-  version="NEW BUILD FULL v3.5 p/ Testes"
+  version="3.7"
   name="TONYWARLLEY"
   provider-name="@tonywarlley">
   <requires>
